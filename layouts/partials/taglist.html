@@ -1,0 +1,9 @@
+<article id="video">
+  <h2 class="major">Video FTW</h2>
+  <span class="image main"><img src="{{ .Site.BaseURL }}/img/pic01.jpg" alt="" /></span>
+  {{ range .Site.Taxonomies.tags.video }}
+    <h3>{{ .Page.Title }}</h3>
+    <h4>{{ .Page.Date }}</h4>
+    <p>{{ .Page.Content }}</p>
+  {{ end }}
+</article>

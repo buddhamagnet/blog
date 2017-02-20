@@ -1,8 +1,8 @@
 +++
 date = "2017-02-20T09:23:48Z"
 title = "It Is Time"
-tags = ["Video", "Anders"]
-categories = ["Video"]
+tags = ["video"]
+categories = ["video"]
 series = ["Wild Earth"]
 +++
 
