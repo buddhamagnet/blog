@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on WOODS</title>
-    <link>http://example.org/posts/index.xml</link>
+    <link>https://buddhamagnet.github.io/blog/posts/index.xml</link>
     <description>Recent content in Posts on WOODS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>buddhamagnet</copyright>
     <lastBuildDate>Mon, 20 Feb 2017 09:23:48 +0000</lastBuildDate>
-    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://buddhamagnet.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>It Is Time</title>
-      <link>http://example.org/posts/intro/</link>
+      <link>https://buddhamagnet.github.io/blog/posts/intro/</link>
       <pubDate>Mon, 20 Feb 2017 09:23:48 +0000</pubDate>
       
-      <guid>http://example.org/posts/intro/</guid>
+      <guid>https://buddhamagnet.github.io/blog/posts/intro/</guid>
       <description>&lt;p&gt;A great video by my friend Anders Brogaard.&lt;/p&gt;
 
 &lt;div class=&#34;videoWrapper&#34;&gt;
