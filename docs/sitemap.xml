@@ -7,6 +7,12 @@
   </url>
   
   <url>
+    <loc>https://buddhamagnet.github.io/blog/categories/bushcraft/</loc>
+    <lastmod>2017-02-20T09:23:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://buddhamagnet.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
@@ -28,25 +34,19 @@
   </url>
   
   <url>
-    <loc>https://buddhamagnet.github.io/blog/tags/video/</loc>
-    <lastmod>2017-02-20T09:23:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://buddhamagnet.github.io/blog/categories/video/</loc>
-    <lastmod>2017-02-20T09:23:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://buddhamagnet.github.io/blog/</loc>
     <lastmod>2017-02-20T09:23:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buddhamagnet.github.io/blog/series/wild-earth/</loc>
+    <loc>https://buddhamagnet.github.io/blog/tags/woodland-wayer/</loc>
+    <lastmod>2017-02-20T09:23:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://buddhamagnet.github.io/blog/series/woodland-ways/</loc>
     <lastmod>2017-02-20T09:23:48+00:00</lastmod>
     <priority>0</priority>
   </url>
