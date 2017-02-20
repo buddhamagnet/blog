@@ -1,0 +1,55 @@
+languageCode = "en-us"
+baseurl = "http://example.org/"
+theme = "dimension"
+
+[params]
+  title = "WOODS"
+  description = '<!--[-->bushcraft blog<!--]-->'
+  logo = "fa-tree"
+  copyright = "buddhamagnet"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "http://twitter.com/buddhamagnet"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/dave.goodchild.5"
+
+[[params.social]]
+  medium = "pinterest"
+  icon = "pinterest"
+  link = "https://uk.pinterest.com/buddhamagnet"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "http://github.com/buddhamagnet"
+
+[[params.social]]
+  medium = "soundcloud"
+  icon = "soundcloud"
+  link = "http://soundcloud.com/buddhamagnet"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "http://instagram.com/buddhamagnet"
+
+[[params.social]]
+  medium = "vimeo"
+  icon = "vimeo"
+  link = "https://vimeo.com/user334655"
+
+[[params.social]]
+  medium = "slack"
+  icon = "slack"
+  link = "https://buddhamagnet.slack.com"
+
+[[params.social]]
+  medium = "youtube"
+  icon = "youtube"
+  link = "http://youtube.com/buddhamagnet"
+
