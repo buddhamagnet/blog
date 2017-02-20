@@ -49,9 +49,9 @@
 
             <!-- Intro -->
               <article id="intro">
-                <h2 class="major">Intro</h2>
+                <h2 class="major">Into the woods</h2>
                 <span class="image main"><img src="{{ .Site.BaseURL }}/img/embedded.jpg" alt="" /></span>
-                <p>Into the woods.</p>
+                <p>As I'm about to embark on a two year journey into the woods and beyond with the marvellous people at <a href="http://woodland-ways.co.uk" target="_blank">Woodland Ways</a>, I thought I'd kick off a blog to document the sights and sounds of that mission. And any mountains I visit in the meantime. Or countries. And talk about some of the kit I use. With a side order of tech and radical politics and music.</p>
               </article>
 
               <!-- About -->
@@ -79,6 +79,11 @@
                   <h3>{{ .Title }}</h3>
                   <h4>{{ .Date }}</h4>
                   <p>{{ .Content }}</p>
+                  <ul id="tags">
+                    {{ range .Params.tags }}
+                      <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                    {{ end }}
+                  </ul>
                 {{ end }}
               </article>
 

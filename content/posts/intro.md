@@ -1,7 +1,9 @@
 +++
 date = "2017-02-20T09:23:48Z"
 title = "It Is Time"
-
+tags = ["Video", "Anders"]
+categories = ["Video"]
+series = ["Wild Earth"]
 +++
 
 A great video by my friend Anders Brogaard.

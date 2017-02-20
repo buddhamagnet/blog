@@ -16,3 +16,7 @@
 #bg:after {
   background-image: url("../img/mountain.jpg");
 }
+
+ul#tags li {
+  display: inline;
+}

@@ -3,6 +3,11 @@ baseurl = "https://buddhamagnet.github.io/blog/"
 theme = "dimension"
 publishDir =  "docs"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
 [params]
   title = "WOODS"
   description = '<!--[-->bushcraft blog<!--]-->'
