@@ -49,14 +49,14 @@
             <!-- Intro -->
               <article id="intro">
                 <h2 class="major">Intro</h2>
-                <span class="image main"><img src="/img/embedded.jpg" alt="" /></span>
+                <span class="image main"><img src="{{ .Site.BaseURL }}/img/embedded.jpg" alt="" /></span>
                 <p>Into the woods.</p>
               </article>
 
               <!-- Intro -->
               <article id="posts">
                 <h2 class="major">Blog</h2>
-                <span class="image main"><img src="/img/pic01.jpg" alt="" /></span>
+                <span class="image main"><img src="{{ .Site.BaseURL }}/img/pic01.jpg" alt="" /></span>
                 {{ range first 5 .Data.Pages }}
                   <h3>{{ .Title }}</h3>
                   <h4>{{ .Date }}</h4>
@@ -67,7 +67,7 @@
               <!-- Archive -->
               <article id="archive">
                 <h2 class="major">Archive</h2>
-                <span class="image main"><img src="/img/pic01.jpg" alt="" /></span>
+                <span class="image main"><img src="{{ .Site.BaseURL }}/img/pic01.jpg" alt="" /></span>
                 {{ range .Data.Pages }}
                   <h3>{{ .Title }}</h3>
                   <h4>{{ .Date }}</h4>
@@ -78,7 +78,7 @@
             <!-- About -->
               <article id="about">
                 <h2 class="major">About</h2>
-                <span class="image main"><img src="/img/shaman.jpg" alt="" /></span>
+                <span class="image main"><img src="{{ .Site.BaseURL }}/img/shaman.jpg" alt="" /></span>
                 <p>My name is Dave Goodchild. I'm a writer, adventurer and technologist equally interested in the wilds and
                 wide open spaces of the world and the fast-moving technology that is disrupting our culture. I believe that technology can be harnessed to make a difference.</p>
               </article>
@@ -86,7 +86,7 @@
               <!-- Links -->
               <article id="links">
                 <h2 class="major">Links</h2>
-                <span class="image main"><img src="/img/pic03.jpg" alt="" /></span>
+                <span class="image main"><img src="{{ .Site.BaseURL }}/img/pic03.jpg" alt="" /></span>
                 <p><a href="http://woodland-ways.co.uk" target="_blank">Woodland Ways</a></p>
                 <p><a href="http://www.wildearth.productions/" target="_blank">Wild Earth Productions</a></p>
                 <p><a href="http://benandloisorford.com/" target="_blank">Ben Orford</a></p>
@@ -357,10 +357,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
       <div id="bg"></div>
 
     <!-- Scripts -->
-      <script src="/js/jquery.min.js"></script>
-      <script src="/js/skel.min.js"></script>
-      <script src="/js/util.js"></script>
-      <script src="/js/main.js"></script>
+      <script src="{{ .Site.BaseURL }}/js/jquery.min.js"></script>
+      <script src="{{ .Site.BaseURL }}/js/skel.min.js"></script>
+      <script src="{{ .Site.BaseURL }}/js/util.js"></script>
+      <script src="{{ .Site.BaseURL }}/js/main.js"></script>
 
   </body>
 </html>
