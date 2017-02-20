@@ -10,6 +10,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/blog.css" />
     <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
     <noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
   </head>
@@ -34,6 +35,7 @@
                 <li><a href="#intro">Intro</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#posts">Posts</a></li>
+                <li><a href="#archive">Archive</a></li>
                 <li><a href="#links">Links</a></li>
                 <li><a href="#contact">Find Me</a></li>
                 <!-- <li><a href="#elements">Elements</a></li> -->
@@ -54,6 +56,17 @@
               <!-- Intro -->
               <article id="posts">
                 <h2 class="major">Blog</h2>
+                <span class="image main"><img src="/img/pic01.jpg" alt="" /></span>
+                {{ range first 5 .Data.Pages }}
+                  <h3>{{ .Title }}</h3>
+                  <h4>{{ .Date }}</h4>
+                  <p>{{ .Content }}</p>
+                {{ end }}
+              </article>
+
+              <!-- Archive -->
+              <article id="archive">
+                <h2 class="major">Archive</h2>
                 <span class="image main"><img src="/img/pic01.jpg" alt="" /></span>
                 {{ range .Data.Pages }}
                   <h3>{{ .Title }}</h3>
