@@ -30,6 +30,11 @@ series = "series"
   link = "https://uk.pinterest.com/buddhamagnet"
 
 [[params.social]]
+  medium = "rss"
+  icon = "rss"
+  link = "https://buddhamagnet.github.io/blog/index.xml"
+
+[[params.social]]
   medium = "github"
   icon = "github"
   link = "http://github.com/buddhamagnet"
