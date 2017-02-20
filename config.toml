@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseurl = "http://example.org/"
+baseurl = "https://buddhamagnet.github.io/blog/"
 theme = "dimension"
 publishDir =  "docs"
 
