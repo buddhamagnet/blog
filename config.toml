@@ -9,8 +9,8 @@ category = "categories"
 series = "series"
 
 [params]
-  title = "WOODS"
-  description = '<!--[-->bushcraft blog<!--]-->'
+  title = "GREEN MACHINE"
+  description = '<!--[-->a bushcraft blog<!--]-->'
   logo = "fa-tree"
   copyright = "buddhamagnet"
 
