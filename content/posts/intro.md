@@ -26,3 +26,6 @@ As for blades, haven't decided on a new knife as yet, but I've packed a wildlife
 <div>
 I tend to sleep on the ground in the colder months, and go up into a hammock as it gets warmer, so for this trip I'll be bedding down in the <a href="http://www.snugpak.com/outdoor/ionosphere-2577" target="_blank">Snugpak Ionosphere</a>. Goes up in a few minutes and surprisingly weather-proof.
 </div>
+
+<div>I try and pack everthing I need and no more, but it's February in the UK so my clothes comprise a Merino base layer and long johns, some trousers by <a href="http://www.fjallraven.co.uk/vidda-pro-trousers-regular" target="_blank">Fjallraven</a>, and some waterpoof trousers and fleece, both by <a href="http://www.keela.co.uk/" target="_blank">Keela</a>. So I should be warm and dry. Now, to coat all this with the sweet smell of woodsmoke!
+</div>
