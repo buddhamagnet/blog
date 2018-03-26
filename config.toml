@@ -10,8 +10,8 @@ category = "categories"
 series = "series"
 
 [params]
-  title = "GREEN MACHINE"
-  description = '<!--[-->a bushcraft blog<!--]-->'
+  title = "WORD ENGINEERING"
+  description = '<!--[-->word engineering<!--]-->'
   logo = "fa-tree"
   copyright = "buddhamagnet"
 
@@ -19,11 +19,6 @@ series = "series"
   medium = "twitter"
   icon = "twitter"
   link = "http://twitter.com/buddhamagnet"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/dave.goodchild.5"
 
 [[params.social]]
   medium = "pinterest"
@@ -44,11 +39,6 @@ series = "series"
   medium = "soundcloud"
   icon = "soundcloud"
   link = "http://soundcloud.com/buddhamagnet"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "http://instagram.com/buddhamagnet"
 
 [[params.social]]
   medium = "vimeo"

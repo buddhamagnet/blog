@@ -23,12 +23,6 @@
   </url>
   
   <url>
-    <loc>https://buddhamagnet.github.io/blog/</loc>
-    <lastmod>2017-03-02T21:50:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://buddhamagnet.github.io/blog/posts/</loc>
     <lastmod>2017-03-02T21:50:34+00:00</lastmod>
     <priority>0</priority>
@@ -41,6 +35,12 @@
   
   <url>
     <loc>https://buddhamagnet.github.io/blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://buddhamagnet.github.io/blog/</loc>
+    <lastmod>2017-03-02T21:50:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
